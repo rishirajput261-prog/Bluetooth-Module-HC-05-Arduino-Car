@@ -1,4 +1,4 @@
-# 🤖 Arduino Bluetooth Collision Avoidance Robot Car
+# 🤖 Bluetooth Module HC-05 Arduino Controlled Car
 
 ![image](car_conn.png)
 
