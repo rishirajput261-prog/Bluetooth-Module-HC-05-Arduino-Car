@@ -299,7 +299,7 @@ If you found this project useful:
 
 # 📬 Contact
 
-- GitHub:https://github.com/ShivamMathtech/arduino-car-hc05-module
+- GitHub:https://github.com/rishirajput261-prog/Bluetooth-Module-HC-05-Arduino-Car
 
 ---
 
