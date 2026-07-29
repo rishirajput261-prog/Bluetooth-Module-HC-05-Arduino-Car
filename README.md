@@ -291,9 +291,9 @@ If you found this project useful:
 
 # 👨‍💻 Author
 
-## Shivam Singh
+## Rishi Rajput
 
-🚀 Embedded Systems | IoT | Robotics | AI Enthusiast
+🚀 Software and System Analyst | IoT | Robotics & Automation | AI Enthusiast | Embedded Systems
 
 ---
 
