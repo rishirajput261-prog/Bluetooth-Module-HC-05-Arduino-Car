@@ -1,4 +1,4 @@
-# Electronics-and-Embedded-Systems
+# Bluetooth Controlled Car with Arduino and HC-05
 Bluetooth Controlled Car with Arduino and HC-05
 This project demonstrates how to build a Bluetooth-controlled car using an Arduino and an HC-05 Bluetooth module. With this setup, you can control the movement of the car using a smartphone or any other Bluetooth-enabled device.
 
